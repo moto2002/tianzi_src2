@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{777AD083-83E6-4523-B0D1-7381CE176641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-UnityScript", "Assembly-UnityScript.csproj", "{A6F932D0-6046-4D11-88AC-19A17945570E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibLoader", "LibLoader.csproj", "{EF2757F2-F4EB-4ADE-8067-6134081056C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777AD083-83E6-4523-B0D1-7381CE176641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777AD083-83E6-4523-B0D1-7381CE176641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777AD083-83E6-4523-B0D1-7381CE176641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777AD083-83E6-4523-B0D1-7381CE176641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F932D0-6046-4D11-88AC-19A17945570E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F932D0-6046-4D11-88AC-19A17945570E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F932D0-6046-4D11-88AC-19A17945570E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F932D0-6046-4D11-88AC-19A17945570E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF2757F2-F4EB-4ADE-8067-6134081056C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2757F2-F4EB-4ADE-8067-6134081056C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2757F2-F4EB-4ADE-8067-6134081056C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2757F2-F4EB-4ADE-8067-6134081056C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
